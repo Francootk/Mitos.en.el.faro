@@ -1,2 +1,1 @@
-m_EditorVersion: UnknownUnityVersion
-m_EditorVersionWithRevision: UnknownUnityVersion
+m_EditorVersion: 6000.4.8f1
